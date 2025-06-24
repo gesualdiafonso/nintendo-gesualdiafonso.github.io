@@ -73,5 +73,8 @@ Crafted by **Afonso** – Web Developer & Digital Designer focused on immersive,
 
 > *“Design isn’t just how it looks—it’s how it behaves across screens.”*
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-red?style=for-the-badge)](https://afonsodev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-linkedin)](https://afonsodev.vercel.app/](https://www.linkedin.com/in/afonso-gesualdi-aaa9bb244/))
+
 ---
 
